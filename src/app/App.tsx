@@ -52,7 +52,7 @@ export default function App() {
   };
 
   useEffect(() => {
-  
+  reiniciar();
   }, [velocidad, distancia, alturaObjetivo, alturaCanon]);
 
   useEffect(() => {
