@@ -52,8 +52,7 @@ export default function App() {
   };
 
   useEffect(() => {
-    reiniciar();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+  
   }, [velocidad, distancia, alturaObjetivo, alturaCanon]);
 
   useEffect(() => {
@@ -103,7 +102,7 @@ export default function App() {
       if (rafRef.current) cancelAnimationFrame(rafRef.current);
       lastTimeRef.current = null;
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+ 
   }, [corriendo]);
 
   const iniciar = () => {
@@ -127,7 +126,7 @@ export default function App() {
 
       return `${punto.cx.toFixed(2)},${punto.cy.toFixed(2)}`;
     }).join(" ");
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    
   }, [tiempo, velocidad, theta, alturaCanon]);
 
   return (
