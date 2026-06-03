@@ -9,13 +9,15 @@
 
 *Una aplicación web interactiva para visualizar y calcular la física del movimiento parabólico y la caída libre*
 
-[Iniciar Proyecto](#-instalación) • [Características](#-características) • [Tecnologías](#-tecnologías) • [Uso](#-uso)
+[🚀 Demo en Vivo](https://trashpanda012.github.io/Movimiento_Parabolico/) • [Iniciar Proyecto](#-instalación) • [Características](#-características) • [Tecnologías](#-tecnologías) • [Uso](#-uso)
 
 </div>
 
 ## 📋 Descripción
 
 **Extermina a Jaguarcito** es un simulador educativo que implementa las leyes de la cinemática para calcular y visualizar el **movimiento parabólico**. Esta herramienta está diseñada para que estudiantes y entusiastas de la física puedan experimentar interactivamente con la trayectoria de un proyectil disparado hacia un objetivo en caída libre.
+
+> 🌐 **Despliegue del proyecto:** Puedes probar el simulador interactivo directamente en tu navegador accediendo a [trashpanda012.github.io/Movimiento_Parabolico/](https://trashpanda012.github.io/Movimiento_Parabolico/).
 
 ### 🎯 Objetivo Principal
 
